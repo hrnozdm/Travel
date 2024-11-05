@@ -1,0 +1,127 @@
+
+
+{
+    
+    "country":[
+        {
+            "id": "100",
+            "name": "Turkey",
+            "image": "https://media.npr.org/assets/img/2022/06/02/ap22139588216462-605571d9ec6c4c919561b9545ea38886332d2f9b-s1100-c50.jpg",
+            "description": "Türkiye Turu",
+            "price": 100,
+            "info": "Türkiye, güneydoğu Avrupa ve batı Asya'da yer alan transkıtasal bir ülkedir. Türkiye'nin kuzeybatısında Yunanistan ve Bulgaristan, batısında ise Gürcistan, Ermenistan, Azerbaycan ve İran ile kara sınırları vardır. Ayrıca kuzeydoğusunda Gürcistan ile kara sınırının yanı sıra, doğusunda ise Irak'a kara sınırı bulunmaktadır. Türkiye'nin güneyi ise Akdeniz, Ege Denizi ve Karadeniz ile çevrilidir.\n\nBaşkenti Ankara olan Türkiye'nin en büyük şehri ve ekonomik merkezi İstanbul'dur. Türkiye'nin resmi dili Türkçe'dir. Ülke, tarihi boyunca pek çok medeniyete ev sahipliği yapmış ve önemli kültürel mirasları içinde barındırmaktadır. Özellikle Roma, Bizans ve Osmanlı İmparatorlukları gibi büyük medeniyetlere başkentlik yapmış olan İstanbul, tarihi ve kültürel açıdan zengin bir şehirdir.\n\nTürkiye, geleneksel ve modern unsurları bir araya getiren zengin bir kültüre sahiptir. Türk mutfağı dünya genelinde popülerdir, Türk kahvesi ve çay kültürü ise önemli birer gelenektir. Ülke, sahip olduğu doğal güzelliklerle de dikkat çeker. Kapadokya'nın peri bacaları, Pamukkale'nin termal suları, Ege ve Akdeniz'in plajları, tarihi kalıntılar ve birbirinden güzel doğal manzaralar Türkiye'nin turistik cazibesini oluşturur.\n\nTürkiye aynı zamanda modern altyapısı, turistik destinasyonları, zengin tarihi ve kültürel mirası ile dünya genelinde birçok turistin ilgisini çeker"
+          },
+          
+          {
+            "id": "200",
+            "name": "Germany",
+            "image": "https://a.cdn-hotels.com/gdcs/production99/d1929/6e1ec2a9-3215-49a3-be43-b409ef581652.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            "description": "Almanya Turu",
+            "price": 200,
+            "info": "Almanya, Orta Avrupa'da yer alan ve Avrupa'nın en büyük ekonomisine sahip olan bir ülkedir. Almanya'nın kuzeyinde Kuzey Denizi, Baltık Denizi ve Danimarka, doğusunda Polonya ve Çek Cumhuriyeti, güneyinde Avusturya ve İsviçre, batısında ise Fransa, Lüksemburg, Belçika ve Hollanda ile kara sınırları bulunmaktadır. Ayrıca Almanya'nın güneyinde Avusturya ile kara sınırının yanı sıra, kuzeydoğusunda da Çek Cumhuriyeti ile kara sınırı vardır.\n\nAlmanya'nın başkenti Berlin'dir ve en büyük şehri Frankfurt'tur. Almanca resmi dil olup, ülke kültürel zenginlikleri, tarihi mirası ve sanatsal etkinlikleri ile bilinir. Almanya, bilim, teknoloji ve endüstri konularında lider konumdadır. Beethoven, Goethe, Mozart gibi büyük sanatçıları ve filozoflarıyla kültürel anlamda da önemli bir rol oynamıştır.\n\nAlman mutfağı, birçok bölgesel çeşitliliği içerir. Sosis (Wurst) ve ekmeğiyle ünlüdür. Ayrıca, dünya çapında ünlü biraları ve şaraplarıyla da tanınan Almanya, çeşitli festivalleri, tarihî kaleleri ve müzeleri ile ziyaretçilere geniş bir turistik deneyim sunar."
+          },
+          
+          {
+            "id": "300",
+            "name": "Italy",
+            "image": "https://www.flypgs.com/blog/wp-content/uploads/2022/03/kuzey-italya-da-gorulmesi-gereken-yerler.jpg",
+            "description": "İtalya Turu",
+            "price": 400,
+            "info": "İtalya, Güney Avrupa'da Akdeniz'in ortasında bulunan ve tarihi, kültürü ve doğal güzellikleri ile ünlü bir ülkedir. İtalya'nın kuzeyinde Fransa, İsviçre, Avusturya ve Slovenya ile kara sınırları, batısında ise Akdeniz ile sahil şeridi bulunmaktadır.\n\nİtalya'nın başkenti Roma'dır ve diğer büyük şehirleri arasında Milano, Floransa, Venedik ve Napoli bulunmaktadır. İtalyanca resmi dil olup, ülke dünya genelinde mutfak kültürü, moda, sanat ve mimarisi ile tanınır.\n\nİtalyan mutfağı, pizza, makarna, zeytinyağlı yemekler, şarap ve peynir gibi lezzetleri ile ünlüdür. Ayrıca, antik Roma döneminden kalma tarihi yapılar, San Marco Meydanı'ndaki Venedik'in zarif mimarisi, Floransa'daki Uffizi Galerisi gibi sanatsal ve kültürel zenginlikleriyle ziyaretçilere benzersiz bir deneyim sunar. İtalya'nın güzel kıyıları, gölleri ve dağları da doğa severleri cezbetmektedir."
+          },
+          
+          {
+            "id": "400",
+            "name": "Spain",
+            "image": "https://btsoekonomi.com/upload/urun1/282/images/btsoekonomi_dergi_edergi_ticaret__10_.jpg",
+            "description": "İspanya Turu",
+            "price": 400,
+            "info": "İspanya, Güneybatı Avrupa'da yer alan ve Akdeniz'e kıyısı olan bir ülkedir. Iber Yarımadası'nın büyük bir bölümünü kaplar ve komşuları arasında Portekiz, Fransa, Andorra ve Fas bulunmaktadır. İspanya'nın başkenti Madrid'dir ve diğer önemli şehirleri arasında Barselona, Sevilla ve Valencia yer almaktadır.\n\nİspanyolca resmi dil olup, ülke zengin kültürel mirası, tarihi yapıları, lezzetli mutfağı, flamenko dansı, geleneksel festivalleri ve güzel plajları ile tanınır. İspanya'da Gaudi'nin eserleri, Alhambra Sarayı, İbiza adası gibi turistik bölgeler bulunmaktadır.\n\nİspanyol mutfağı, tapas, paella, churros ve sangria gibi özgün lezzetleriyle ünlüdür. Ülke, sıcak iklimi, renkli festivalleri ve misafirperver halkıyla birçok turisti cezbetmektedir."
+          },
+          {
+            "id": "500",
+            "name": "France",
+            "image": "https://images.ctfassets.net/szez98lehkfm/6EkCqWVruc6ISeeluVJBna/0d6a472cd857a2b18bf384e26ac029eb/MyIC_Inline_74864",
+            "description": "Fransa Turu",
+            "price": 400,
+            "info": "Fransa, Batı Avrupa'da bulunan bir ülkedir ve kuzeyde Manş Denizi, batıda Atlas Okyanusu, güneyde İspanya ve Andorra, doğuda İtalya, İsviçre ve Almanya ile komşudur. Fransa, başkenti Paris olmak üzere birçok tarihi ve kültürel zenginliklere ev sahipliği yapmaktadır.\n\nFransa, dünya genelinde romantik atmosferi, ünlü sanat eserleri, moda, lezzetli mutfağı, şarapları ve tarihi yapıları ile tanınır. Paris'teki Eyfel Kulesi, Louvre Müzesi, Fransız Rivierası, Lavanta tarlaları ve şatoları gibi birçok turistik cazibe merkezi bulunmaktadır.\n\nFransız mutfağı, dünya çapında ünlüdür. Baget, croissant, escargot, coq au vin ve macaron gibi özel lezzetlere ev sahipliği yapmaktadır. Fransız kültürü, moda dünyasıyla da öne çıkar ve Paris, moda başkenti olarak bilinir. Ayrıca Fransızca, resmi dil olup, dünya genelinde önemli bir kültür ve dil etkisi taşır."
+          },
+          
+          
+          {
+            "id": "600",
+            "name": "Switzerland",
+            "image": "https://www.flypgs.com/blog/wp-content/uploads/2019/07/isvicre-nin-kasabalari-gol-manzarasi.jpg",
+            "description": "İsviçre Turu",
+            "price": 400,
+            "info": "İsviçre, Orta Avrupa'da yer alan bir ülkedir ve Almanya, Fransa, İtalya, Avusturya ve Lihtenştayn ile komşudur. Gölleri, dağları, şehirleri ve doğal güzellikleri ile ünlü olan İsviçre, aynı zamanda nötr bir politika ve uluslararası barış çabalarıyla bilinir.\n\nİsviçre'nin başkenti Bern'dir. Diğer önemli şehirleri arasında Zürih, Cenevre, Basel ve Lozan bulunmaktadır. İsviçre Alpleri, dünya çapında doğa sporları ve kış turizmi için popüler bir destinasyondur.\n\nİsviçre'nin kültürü, dört farklı dil konuşulan bir ülke olması nedeniyle çeşitlidir: Almanca, Fransızca, İtalyanca ve Romansh. Ülke, geleneksel festivalleri, el sanatları, peynirleri ve çikolataları ile tanınır.\n\nİsviçre, kaliteli saat yapımı, bankacılık hizmetleri ve uluslararası organizasyonlara ev sahipliği yapmasıyla da bilinir. Ayrıca, İsviçre'nin gölleri, dağları ve yeşil vadileri, doğa severler ve macera arayanlar için çekici bir destinasyon sunar."
+          }
+          
+    ],
+    "header":{
+        "title":"Gezi Sitesi",
+        "home":"Anasayfa",
+        "tours":"Turlar",
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifgAMQXwaoOw8eFXoeo1y2hZXHLhre51uwg&usqp=CAU",
+        "login_register":"Giriş Yap/Kayıt Ol",
+        "reservation":"Rezervasyon"
+    },
+    "footer":{
+        "contactInfo":"İletişim Bilgileri",
+        "email":"info@gmail.com",
+        "phone":"0555 555 55 55",
+        "follow":"Bizi Takip edin",
+        "socialIcons":[
+            {"iconClass":"fa-brands fa-whatsapp"},{"iconClass":"fa-brands fa-instagram"},{"iconClass":"fa-brands fa-twitter"}
+        ]
+    },
+    "category":{
+        "weatherTitle":"Hava Durumu",
+        "weatherInfo":"Turlaramız en iyi hava durumu şartları gözetilerek yapılacaktır",
+        "flightInfo":"Uçuşlarımız siz değerli müşterilerimiz için en iyi koşullarda yapılmaktadır",
+        "flight":"Uçuşlar",
+        "localEvents":"Etkinlikler",
+        "localEventsInfo":"Eğlenceli etkinliklerimiz ile turlarımız daha keyifli hale gelmektedir",
+        "customization":"Özelleştirme",
+        "customizationInfo":"Özel istekleriniz size daha iyi hizmet vermek için önem arz etmektedir."
+    },
+    "favoriteCountry":[
+        {
+            "id":"700",
+            "name":"Türkiye,İstanbul",
+            "price":"5.2k",
+            "howManyDays":"10 Günlük Gezi",
+            "img":"https://media.istockphoto.com/id/1283504873/tr/foto%C4%9Fraf/cami-ve-bo%C4%9Faz-k%C3%B6pr%C3%BCs%C3%BC.jpg?s=612x612&w=0&k=20&c=mGX0AaHB8Pl-jQG2ZUWt2ilFwIbSIg2DLFym2eo_PeE="
+        },{
+            "id":"800",
+            "name":"Fransa,Paris",
+            "price":"10.2k",
+            "howManyDays":"10 Günlük Gezi",
+            "img":"https://media.istockphoto.com/id/635758088/tr/foto%C4%9Fraf/sunrise-at-the-eiffel-tower-in-paris-along-the-seine.jpg?s=612x612&w=0&k=20&c=U6lLh6FUyvG4d9ydbs5oxsZQnCAHrPvbm4M7J85u9fk="
+        },{
+            "id":"900",
+            "name":"Almanya,Münih",
+            "price":"5.2k",
+            "howManyDays":"10 Günlük Gezi",
+            "img":"https://cdnp.flypgs.com/files/Sehirler-long-tail/Munih/munih-platzl-square.jpg"
+        }
+    ],
+    "booking":{
+        "selectLocation":"Lokasyonunuzu Seçin",
+        "selectLocationInfo":"Favori Yerinizi Seçin",
+        "selectLocationInfo2":"Dünyanın Neresine Giderseniz Gidin",
+        "toPay":"Ödeme Yapmak",
+        "toPayInfo":"Konumunuzu bulduktan sonra ödemenizi yapın",
+        "toPayInfo2":"ve Seyehate Hazırlanın",
+        "airpotDate":"Seçilen Tarihte Havaalanına ulaşın",
+        "airpotDateInfo":"Son olarak havalimanına zamanında varmalı ve tatilin tadını",
+        "airpotDateInfo2":"çıkarmalısınız"
+    },
+    "banner":{
+        "bannerTitle":"Dünyanın En İyi Turları",
+        "bannerInfo":"Seyahat edin, tadını çıkarın ve yeni ve dolu bir hayat yaşayın",
+         "bannerAdvert":"Gezi Sitesi ile en iyi turları alın",
+        "bannerDesc":"Seyehatinizi planlayın,turunuzu alın.Tatilin keyfini çıkarın"
+    }
+    
+}
